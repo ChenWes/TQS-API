@@ -1,0 +1,6 @@
+{
+    "port": 3000,    
+    "DB_URL": "mongodb://weschen:Wes!23chen@ds155288.mlab.com:55288/tqsapi",
+    "ETS_API_Server": "https://ets-az-fn-app-dev.azurewebsites.net/api/v1",
+    "productionOrderSearchApi":"/OrderList"
+}
